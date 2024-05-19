@@ -19,7 +19,7 @@ struct ContentView: View {
                     self.isLoading.toggle()
                 })
             }, label: {
-                Text("Stussy")
+                Text("Supreme")
                     .padding()
                     .bold()
                     .foregroundStyle(Color(.systemGroupedBackground))
